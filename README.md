@@ -77,7 +77,7 @@ seaborn          # Statistical visualization
 - **Interpretability**: Clear decision boundaries and thresholds
 
 ## 🚀 Quick Start
-[**Open Notebook in GitHub**](https://github.com/PopJoy-geek/Digital-Wellbeing-Modeling-Social-Medias-Impact-on-Mental-Health/blob/main/Digital%20Wellbeing%20Modeling%20Social%20Media's%20Impact%20on%20Mental%20Health%20(Final%20Project%20Report)%20copy.ipynb）
+[**Open Notebook in GitHub**](https://github.com/PopJoy-geek/Digital-Wellbeing-Modeling-Social-Medias-Impact-on-Mental-Health/blob/main/Digital%20Wellbeing%20Modeling%20Social%20Media's%20Impact%20on%20Mental%20Health%20(Final%20Project%20Report)%20copy.ipynb)
 
 *GitHub will render the complete Jupyter notebook with all analyses and visualizations*
 
